@@ -167,7 +167,7 @@ const About = () => {
               <ul className="list-disc pl-4 text-gray-400 space-y-1">
                 <li className="text-xs">4 stars in C++ on HackerRank (Nov 2025)</li>
                 <li className="text-xs">Hacktoberfest 2025 achievement badges (Oct 2025)</li>
-                <li className="text-xs">Solved 120+ coding problems across various platforms</li>
+                <li className="text-xs">Solved 500+ coding problems across various platforms</li>
               </ul>
             </motion.div>
           </motion.div>
