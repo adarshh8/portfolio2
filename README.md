@@ -156,12 +156,4 @@ This is a personal project for development and portfolio purposes.
 
 If you find this project helpful or interesting, please consider giving it a star on GitHub! Your support helps me continue to improve and maintain the project.
 
----
 
-## 👨‍💻 Author
-
-**Aditya Raj Srivastava**
-- GitHub: [@adityarajsrv](https://github.com/adityarajsrv)
-- LinkedIn: [Aditya Raj Srivastava](https://www.linkedin.com/in/adityarajsrv)
-
----
