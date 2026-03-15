@@ -84,27 +84,21 @@ PORTFOLIO/
 
 ### Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/adityarajsrv/portfolio.git
-cd portfolio/frontend
-```
-
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 npm install
 # or
 yarn install
 ```
 
-3. Start the development server:
+2. Start the development server:
 ```bash
 npm run dev
 # or
 yarn dev
 ```
 
-4. Open [http://localhost:5173](http://localhost:5173) in your browser
+3. Open [http://localhost:5173](http://localhost:5173) in your browser
 
 ### Build for Production
 ```bash
