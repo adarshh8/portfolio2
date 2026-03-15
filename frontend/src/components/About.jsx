@@ -144,7 +144,7 @@ const About = () => {
                   <p className="text-xs text-gray-400">Lovely Professional University</p>
                 </div>
                 <div className="text-right text-xs text-gray-400">
-                  <p>CGPA: 7.1</p>
+                  <p>CGPA: 7.05</p>
                   <p>Aug 2023 – Present</p>
                 </div>
               </div>
